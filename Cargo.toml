@@ -1,7 +1,7 @@
 [package]
 name = "xxhttp"
-version = "0.1.1"
-description = "Extremely fast web client/server library"
+version = "0.1.2"
+description = "Nothing muchh"
 license = "MIT"
 readme = "README.md"
 authors = ["Vishak V S <vsvishak9@gmail.com>"]
