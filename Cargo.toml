@@ -1,7 +1,15 @@
 [package]
 name = "xxhttp"
-version = "0.1.0"
+version = "0.1.1"
+description = "Extremely fast web client/server library"
+license = "MIT"
+readme = "README.md"
+authors = ["Vishak V S <vsvishak9@gmail.com>"]
 edition = "2021"
+keywords = ["http", "xxhttp", "web"]
+homepage = "https://github.com/vishakvs/xxhttp"
+repository = "https://github.com/vishakvs/xxhttp"
+categories = ["network-programming", "web-programming::http-client", "web-programming::http-server"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
